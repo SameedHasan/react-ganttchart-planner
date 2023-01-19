@@ -1,6 +1,6 @@
 # react-ganttchart-planner
 
-> react ganttchart planner package with tasks, dureations and resources
+> react ganttchart planner package with tasks, durations and resources
 
 [![NPM](https://img.shields.io/npm/v/react-ganttchart-planner.svg)](https://www.npmjs.com/package/react-ganttchart-planner) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
