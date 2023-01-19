@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { ReactGanttchartPlanner } from 'react-ganttchart-planner'
+import ReactGanttchartPlanner from 'react-ganttchart-planner'
 import 'react-ganttchart-planner/dist/index.css'
 
 const App = () => {

@@ -1,8 +1,7 @@
 import React from 'react'
 import styles from './styles.module.css'
 import GanttChart from './components/ganttChart/GanttChart'
-
-export const ReactGanttchartPlanner = ({
+const ReactGanttchartPlanner = ({
   shifts,
   tasksArray,
   durationsArray,
@@ -17,3 +16,5 @@ export const ReactGanttchartPlanner = ({
     />
   )
 }
+
+export default ReactGanttchartPlanner
