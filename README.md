@@ -4,6 +4,10 @@
 
 [![NPM](https://img.shields.io/npm/v/react-ganttchart-planner.svg)](https://www.npmjs.com/package/react-ganttchart-planner) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+
+## Screenshot
+![Screenshot (16)](https://user-images.githubusercontent.com/64144024/213437587-6fbb09fe-a917-409d-94f1-895f66f77839.png)
+
 ## Install
 
 ```bash
