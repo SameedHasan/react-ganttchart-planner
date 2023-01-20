@@ -6,7 +6,8 @@
 
 
 ## Screenshot
-![Screenshot (16)](https://user-images.githubusercontent.com/64144024/213437587-6fbb09fe-a917-409d-94f1-895f66f77839.png)
+![Uploading 2023-01-20 14-53-29_Trim.gif…]()
+
 
 ## Install
 
