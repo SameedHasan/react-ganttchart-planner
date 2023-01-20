@@ -5,7 +5,7 @@
 [![NPM](https://img.shields.io/npm/v/react-ganttchart-planner.svg)](https://www.npmjs.com/package/react-ganttchart-planner) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
 
-## Screenshot
+## Demo
 
 https://user-images.githubusercontent.com/64144024/213669187-458fecd1-310f-426b-a181-ec49fa3cee0d.mp4
 
