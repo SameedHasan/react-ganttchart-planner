@@ -6,10 +6,7 @@
 
 
 ## Demo
-
-https://user-images.githubusercontent.com/64144024/213669187-458fecd1-310f-426b-a181-ec49fa3cee0d.mp4
-
-
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/64144024/213673265-ef364eee-d7ab-4130-b1c0-e866634efac4.gif)
 
 ## Install
 
