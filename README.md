@@ -6,7 +6,9 @@
 
 
 ## Screenshot
-![Uploading 2023-01-20 14-53-29_Trim.gif…]()
+
+https://user-images.githubusercontent.com/64144024/213669187-458fecd1-310f-426b-a181-ec49fa3cee0d.mp4
+
 
 
 ## Install
